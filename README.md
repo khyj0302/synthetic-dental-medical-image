@@ -1,1 +1,1 @@
-# 치과질환 인공지능 서비스 모델 구축 지원을 위한 분할 정복 생성 모델 기반 구강 이미지 합성 데이터 구축
+# Dataset dataset generation and validation of synthetic clinical intraoral images based on a divide-and-conquer generation model to support the establishment of an artificial intelligence service model for dental diseases
